@@ -1,0 +1,42 @@
+[
+    {
+        "train_keys": [
+            "video_1",
+            "video_2",
+            "video_3"
+        ],
+        "test_keys": []
+    },
+    {
+        "train_keys": [
+            "video_1",
+            "video_2",
+            "video_3"
+        ],
+        "test_keys": []
+    },
+    {
+        "train_keys": [
+            "video_1",
+            "video_2",
+            "video_3"
+        ],
+        "test_keys": []
+    },
+    {
+        "train_keys": [
+            "video_1",
+            "video_2",
+            "video_3"
+        ],
+        "test_keys": []
+    },
+    {
+        "train_keys": [
+            "video_1",
+            "video_2",
+            "video_3"
+        ],
+        "test_keys": []
+    }
+]
